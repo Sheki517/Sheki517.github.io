@@ -1,3 +1,5 @@
+//author : Sheki Okwayo
+
 import Image from "next/image";
 import next_svg from "../../public/next.svg";
 import vercel_svg from "../../public/vercel.svg";
